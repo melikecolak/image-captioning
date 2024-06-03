@@ -29,7 +29,7 @@ Our model consists of two main components:
 1. **CNN (Convolutional Neural Network)**: Extracts features from images using a pre-trained VGG16 model.
 2. **LSTM (Long Short-Term Memory)**: Generates captions based on the extracted image features.
 
-![Model Architecture](https://your-image-url.com/model_architecture.jpg)
+![Model Architecture](https://github.com/melikecolak/image-captioning/assets/73293751/c6126250-2715-4382-a420-e0922ee8fb53)
 
 ## Dataset
 
