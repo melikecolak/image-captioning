@@ -79,7 +79,7 @@ Here is an example of the actual vs. predicted captions:
 
 ## Acknowledgements
 
-We would like to thank the creators of the Flickr8k dataset and the authors of the various papers that inspired this project:
+I would like to thank the creators of the Flickr8k dataset and the authors of the various papers that inspired this project:
 
 - Hodosh, M., Young, P., & Hockenmaier, J. (2013). Framing image description as a ranking task: Data, models and evaluation metrics. *Journal of Artificial Intelligence Research*, 47, 853-899.
 - Mao, J., et al. (2016). Flickr30k Entities: Collecting region-to-phrase correspondences for richer image-to-sentence models. *Proceedings of the IEEE conference on computer vision and pattern recognition*, 2641-2649.
