@@ -52,7 +52,8 @@ The model is trained using the following parameters:
 - **Optimizer**: Adam
 - **Loss Function**: Categorical Crossentropy
 
-After 100 epochs, the model achieved a training loss of 1.446, indicating effective learning and generalization.
+After 100 epochs, the model achieved a training loss of 1.446, indicating effective learning and generalization. You can reach my model from this [Google Drive link.](https://drive.google.com/drive/folders/1FSA1l002UIyRIqFqR18G8Opmpd9I21B_?usp=sharing)
+
 
 ## Evaluation
 
@@ -66,16 +67,7 @@ These scores reflect the model's ability to generate accurate and contextually r
 ## Results
 
 Here is an example of the actual vs. predicted captions:
-
-**Actual Captions:**
-1. startseq black dog and spotted dog are fighting endseq
-2. startseq black dog and tri-colored dog playing with each other on the road endseq
-3. startseq black dog and white dog with brown spots are staring at each other in the street endseq
-4. startseq two dogs of different breeds looking at each other on the road endseq
-5. startseq two dogs on pavement moving toward each other endseq
-
-**Predicted Caption:**
-1. startseq two dogs playing with each other on the street endseq
+![image](https://github.com/melikecolak/image-captioning/assets/73293751/6618d4bf-f390-458b-98f9-a302a23086ea)
 
 ## Acknowledgements
 
