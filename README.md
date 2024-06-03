@@ -1,6 +1,3 @@
-## README for Image Captioning Project
-
-
 # Image Captioning using CNN-LSTM on Flickr8k
 
 Welcome to my Image Captioning project repository! This project aims to generate descriptive captions for images using a deep learning model that integrates Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks. My model is trained on the Flickr8k dataset, leveraging the power of visual and sequential data to produce accurate and meaningful image descriptions.
@@ -14,8 +11,6 @@ Welcome to my Image Captioning project repository! This project aims to generate
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -81,29 +76,6 @@ Here is an example of the actual vs. predicted captions:
 
 **Predicted Caption:**
 1. startseq two dogs playing with each other on the street endseq
-
-## Installation
-
-To run this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/image-captioning.git
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-To generate captions for your images, follow these steps:
-
-1. Prepare your images in the `images/` directory.
-2. Run the caption generation script:
-   ```bash
-   python generate_captions.py
-   ```
 
 ## Acknowledgements
 
